@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #FF862A;
+    --vermelho: #FF0011;
  }
 
 body {
@@ -22,7 +22,7 @@ section {
 
 
 .nav-link {
-    color: #CB6D43;
+    color: #FF0011;
     font-weight: 600;
 }
 
@@ -58,7 +58,7 @@ section {
 
 
 .botao-inicio {
-    background-color: var(--laranja-claro);
+    background-color: var(--vermelho);
     border-radius: 30px;
     border: none;
     width: 14em;
@@ -68,7 +68,7 @@ section {
 }
 
 .display-4 {
-    text-shadow: -5px 5px var(--laranja-claro);
+    text-shadow: -5px 5px var(--vermelho);
 }
 
 
@@ -97,11 +97,11 @@ h2 {
     font-family: 'Lemon', serif;
     font-size: 2.5em;
     font-style: normal;
-    color: var(--laranja-claro);
+    color: var(--vermelho);
 }
 
 #galeria {
-    background-color: #FAF4F4;
+    background-color: #000000;
 
 }
 
@@ -130,13 +130,13 @@ h2 {
 }
 
 .formulario button {
-    background-color: #CB6D43;
+    background-color: #99000F;
     border: none;
     font-weight: bold;
 }
 
 .form-control {
-    background-color: #F1EDEF;
+    background-color: #FF0011;
 }
 .menu-acessibilidade{
     position: fixed;
